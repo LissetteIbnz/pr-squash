@@ -1,4 +1,6 @@
 Sample
 
 - New change
-- Another change
+- Another line
+
+Final change
